@@ -2,6 +2,11 @@
   "name": "editable-element",
   "version": "0.1.0",
   "description": "And editable and contenteditable react component.",
+  "author": "Franco RATOVOSON",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrancoRATOVOSON/react-editable-element.git"
+  },
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
@@ -13,9 +18,6 @@
   "packageManager": "yarn@3.0.2",
   "peerDependencies": {
     "react": "^17.0.2"
-  },
-  "dependencies": {
-    "react": "17.0.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.26",
